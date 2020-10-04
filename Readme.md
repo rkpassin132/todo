@@ -1,11 +1,11 @@
 # Todo app
 
 
-### Instalation
+### Installation
 npm install
 
-#### Some pakacges
-In case some pakacge not install
+#### Some packages
+In case some package not install
 1. react-native-vector-icons follow link https://www.npmjs.com/package/react-native-vector-icons
 2. react-native-animatable link https://www.npmjs.com/package/react-native-animatable
 
